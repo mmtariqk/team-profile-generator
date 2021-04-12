@@ -1,0 +1,29 @@
+{
+  "name": "team-profile",
+  "version": "1.0.0",
+  "description": "## Description   This project for UC Berkeley Extension's Full Stack Web Development course is a team membe generator.  I used Node along with jest, the inquirer, and FS packages.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NGDino/team-profile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NGDino/team-profile/issues"
+  },
+  "homepage": "https://github.com/NGDino/team-profile#readme"
+}
