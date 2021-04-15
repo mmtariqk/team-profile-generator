@@ -19,8 +19,11 @@ This app is created for generating employee profiles for a team. The application
 
   <img width="1136" alt="output-2" src="https://user-images.githubusercontent.com/77028806/114799573-beda8780-9d4c-11eb-8231-fa7bb816d0e4.png">
   
-  ![Mobile-Size-Pic](https://user-images.githubusercontent.com/77028806/114352850-3330e300-9b21-11eb-8f63-79d55fc00f25.png)
-  ![Desktop-up](https://user-images.githubusercontent.com/77028806/114352896-4479ef80-9b21-11eb-9c6f-8d807ce4eabd.png)
+  <img width="1110" alt="large-devices-viewports" src="https://user-images.githubusercontent.com/77028806/114800167-07df0b80-9d4e-11eb-95f7-8b79c40ea947.png">
+
+   <img width="491" alt="Viewport-Mobile" src="https://user-images.githubusercontent.com/77028806/114800177-0f061980-9d4e-11eb-940a-06aabeb4add2.png">
+  
+ 
   
   
  
