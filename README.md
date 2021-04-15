@@ -17,6 +17,8 @@ This app is created for generating employee profiles for a team. The application
   
   ![Mobile-Size-Pic](https://user-images.githubusercontent.com/77028806/114352850-3330e300-9b21-11eb-8f63-79d55fc00f25.png)
   ![Desktop-up](https://user-images.githubusercontent.com/77028806/114352896-4479ef80-9b21-11eb-9c6f-8d807ce4eabd.png)
+  
+  
 
   
 
